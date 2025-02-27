@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('./images/bg-image.jpg'); /* Default background */
+  background-size: cover;
+  background-position: center;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 600px;
+  margin: 100px auto;
+}
+
+.search-box {
+  margin-bottom: 20px;
+}
+
+input, button {
+  padding: 10px;
+  font-size: 16px;
+  background-color: rgb(188, 240, 233);
+  
+}
+
+
+.weather {
+  margin: 2px;
+  padding: 1px;
+}
+
+.forecast {
+  margin-top: 20px;
+}
+
+#forecast-data {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
