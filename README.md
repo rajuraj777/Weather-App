@@ -4,7 +4,7 @@ A weather application built using HTML, CSS, and JavaScript that fetches real-ti
 
 ## Live Demo
 
-Check out the live demo of the application [here].(https://weather-app-eight-liard-82.vercel.app/)
+Check out the live demo of the application [here](https://weather-app-eight-liard-82.vercel.app/).
 
 ## Features
 
